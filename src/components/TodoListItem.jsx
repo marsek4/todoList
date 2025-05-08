@@ -43,7 +43,7 @@ function TodoListItem({ todo, setTodos }) {
                         type="text"
                         value={editedText}
                         onChange={(e) => setEditedText(e.target.value)}
-                        className="w-51 px-2 py-1 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
+                        className="flex-1 px-2 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500"
                         autoFocus
                     />
                     <button

@@ -10,7 +10,7 @@ function App() {
   };
 
   return (
-    <div className="flex justify-center items-center min-h-screen min-w-screen bg-blue-100 py-8 px-4">
+    <div className="flex justify-center items-center w-screen h-screen bg-blue-100 py-8 px-4">
 
       <div className="w-md mx-auto bg-white rounded-lg shadow-md overflow-hidden p-6">
 
